@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Max Uroda
 
+- Senior Magento Developer, Software Engineer [@Imagination-Media](https://www.imaginationmedia.com/)
 - [Adobe Certified Professional—Magento Commerce Developer (Magento 2 Certified Associate Developer)](https://www.credly.com/badges/4eb82b29-334b-432d-9b3d-2482cc025a5b)
 - [Adobe Certified Expert-Magento Commerce Front-End Developer (Magento 2 Certified Front End Developer)](https://www.credly.com/badges/d1418cb5-79ff-4497-961f-4b879afd973a)
 - [Magento 1 Certified Developer Plus](https://u.magento.com/certification/directory/dev/1122780/)
